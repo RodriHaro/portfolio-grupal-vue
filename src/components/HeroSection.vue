@@ -6,7 +6,7 @@
         <p class="descripcion">Grupo de trabajo de 5 integrantes cursando la Tecnicatura en Programación de la UTN San Rafael</p>
       </div>
       <div class="imagen-heroe">
-  <img src="/assets/images/altf4.png" alt="ALT+F4 Team Member">
+  <img src="../assets/images/altf4.png" alt="ALT+F4 Team Member">
       </div>
     </div>
   </section>
