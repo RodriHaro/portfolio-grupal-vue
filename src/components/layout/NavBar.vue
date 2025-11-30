@@ -2,7 +2,7 @@
   <nav class="barra-nav" id="barra-nav">
     <div class="contenedor-nav">
       <a href="#inicio" class="logo">
-  <img src="/assets/images/utn.png" alt="UTN Logo">
+  <img src="../../assets/images/utn.png" alt="UTN Logo">
       </a>
       <ul class="menu-nav">
         <li><a href="#inicio">Inicio</a></li>
